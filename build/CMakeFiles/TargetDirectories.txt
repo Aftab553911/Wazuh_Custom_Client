@@ -1,0 +1,3 @@
+C:/Users/Aftab Ali/Desktop/wazuh-client/build/CMakeFiles/wazuh_client.dir
+C:/Users/Aftab Ali/Desktop/wazuh-client/build/CMakeFiles/edit_cache.dir
+C:/Users/Aftab Ali/Desktop/wazuh-client/build/CMakeFiles/rebuild_cache.dir
